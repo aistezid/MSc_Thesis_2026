@@ -1,0 +1,14 @@
+	Austria	Belgium	France	Germany	Hungary	Israel	Italy	Netherlands	Portugal	Senegal	Spain	Uganda	United_Kingdom
+Austria	0	0	0	0	0	0	0	0	0	0	0	0	0
+Belgium	0	0	0	0	0	0	0	0	0	0	0	0	0
+France	0	0	0	0	0	0	0	0	0	0	0	0	0
+Germany	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hungary	0	0	0	0	0	0	0	0	0	0	0	0	0
+Israel	0	0	0	0	0	1	1	0	0	1	0	0	0
+Italy	0	0	0	0	0	1	1	0	0	1	0	0	0
+Netherlands	0	0	0	0	0	0	0	0	0	0	0	0	0
+Portugal	0	0	0	0	0	0	0	0	0	0	0	0	0
+Senegal	0	0	0	0	0	1	1	0	0	1	0	0	0
+Spain	0	0	0	0	0	0	0	0	0	0	0	0	0
+Uganda	0	0	0	0	0	0	0	0	0	0	0	0	0
+United_Kingdom	0	0	0	0	0	0	0	0	0	0	0	0	0

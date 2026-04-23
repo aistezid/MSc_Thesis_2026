@@ -1,0 +1,8 @@
+	Australia	Barbados	China	Colombia	Colorado	France	Kenya
+Australia	1	0	1	0	0	0	0
+Barbados	0	0	0	0	0	0	0
+China	1	0	1	0	0	0	0
+Colombia	0	0	0	0	0	0	0
+Colorado	0	0	0	0	0	0	0
+France	0	0	0	0	0	0	0
+Kenya	0	0	0	0	0	0	0

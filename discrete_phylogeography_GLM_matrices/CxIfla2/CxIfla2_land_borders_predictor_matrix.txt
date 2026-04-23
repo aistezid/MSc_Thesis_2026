@@ -1,0 +1,13 @@
+	Belgium	Georgia	Massachusetts	Morocco	Ohio	Russia	Senegal	Spain	Switzerland	Tunisia	California	United_Kingdom
+Belgium	0	0	0	0	0	0	0	0	0	0	0	0
+Georgia	0	0	0	0	0	1	0	0	0	0	0	0
+Massachusetts	0	0	0	0	0	0	0	0	0	0	0	0
+Morocco	0	0	0	0	0	0	0	1	0	0	0	0
+Ohio	0	0	0	0	0	0	0	0	0	0	0	0
+Russia	0	1	0	0	0	0	0	0	0	0	0	0
+Senegal	0	0	0	0	0	0	0	0	0	0	0	0
+Spain	0	0	0	1	0	0	0	0	0	0	0	0
+Switzerland	0	0	0	0	0	0	0	0	0	0	0	0
+Tunisia	0	0	0	0	0	0	0	0	0	0	0	0
+California	0	0	0	0	0	0	0	0	0	0	0	0
+United_Kingdom	0	0	0	0	0	0	0	0	0	0	0	0

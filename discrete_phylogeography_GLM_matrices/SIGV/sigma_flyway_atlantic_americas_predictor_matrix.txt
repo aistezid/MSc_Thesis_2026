@@ -1,0 +1,11 @@
+	Germany	Greece	Spain	Sweden	Kenya	France	California	North_Carolina	Georgia	United_Kingdom
+Germany	0	0	0	0	0	0	0	0	0	0
+Greece	0	0	0	0	0	0	0	0	0	0
+Spain	0	0	0	0	0	0	0	0	0	0
+Sweden	0	0	0	0	0	0	0	0	0	0
+Kenya	0	0	0	0	0	0	0	0	0	0
+France	0	0	0	0	0	0	0	0	0	0
+California	0	0	0	0	0	0	0	0	0	0
+North_Carolina	0	0	0	0	0	0	0	0	0	0
+Georgia	0	0	0	0	0	0	0	0	1	0
+United_Kingdom	0	0	0	0	0	0	0	0	0	0
